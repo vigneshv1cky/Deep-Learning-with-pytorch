@@ -1,0 +1,30 @@
+
+# Also ignore specific unwanted files/folders
+.ruff_cache/
+.DS_Store
+
+# Common extensions to ignore
+*.css
+*.js
+*.woff
+*.pth
+*.jpg
+*.jpeg
+*.png
+*.ubyte
+*.dcm
+*.gz
+*.csv
+*.pt
+*ubyte
+
+# Optional: ignore folders named __pycache__, .venv, etc.
+__pycache__/
+.venv/
+.env/
+
+Book/data
+Book/data-unversioned
+personal projects/2_CIFAR-10 Image Classification/runs
+personal projects/2_CIFAR-10 Image Classification/data
+personal projects/1_MNIST Digit Classifier/logs
