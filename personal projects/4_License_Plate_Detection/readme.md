@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # License Plate Detection using YOLOv8 🚗🔍
 
 This project leverages **YOLOv8**, a cutting-edge object detection model, to detect license plates in images and videos. The solution supports both training and inference using a custom dataset sourced from Roboflow. It is implemented in a Jupyter Notebook and includes detailed explanations, visual outputs, and performance metrics.
@@ -109,4 +109,4 @@ To run the notebook:
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
+
