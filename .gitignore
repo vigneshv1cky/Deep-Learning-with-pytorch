@@ -28,3 +28,5 @@ Book/data-unversioned
 personal projects/2_CIFAR-10 Image Classification/runs
 personal projects/2_CIFAR-10 Image Classification/data
 personal projects/1_MNIST Digit Classifier/logs
+
+*.txt
